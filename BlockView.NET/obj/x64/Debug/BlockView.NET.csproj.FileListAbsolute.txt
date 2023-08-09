@@ -1,0 +1,14 @@
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET.csproj.AssemblyReference.cache
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\GSPreviewWPFUC.g.cs
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET_MarkupCompile.cache
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET_MarkupCompile.lref
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\bin\x64\Debug\BlockView.NET.dll
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\bin\x64\Debug\BlockView.NET.pdb
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\GSPreviewWPFUC.baml
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET.g.resources
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET.BlockViewDialog.resources
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET.csproj.GenerateResource.cache
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET.csproj.CoreCompileInputs.cache
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET.dll
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\x64\Debug\BlockView.NET.pdb

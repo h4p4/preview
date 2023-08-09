@@ -1,0 +1,5 @@
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\Debug\BlockView.NET.csproj.AssemblyReference.cache
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\Debug\GSPreviewWPFUC.g.cs
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\Debug\BlockView.NET_MarkupCompile.cache
+C:\Users\ZakourtsevAN\Downloads\blockview.net-1\BlockView.NET\obj\Debug\BlockView.NET_MarkupCompile.lref
