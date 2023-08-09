@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="BlockView.NET.GSPreviewWPFUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:wf="clr-namespace:BlockView.NET"
+             d:DesignHeight="300" d:DesignWidth="300" Loaded="UserControl_Loaded" Background="AliceBlue">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Button Name="BrowseBtn" Height="30" Click="BrowseButton_Click">Preview Drawing</Button>
+            <DockPanel Height="20"></DockPanel>
+            <WindowsFormsHost  Height="250" Width="250">
+                <wf:GsPreviewCtrl x:Name="GsPreviewCtrl"/>
+            </WindowsFormsHost>
+        </StackPanel>
+    </Grid>
+</UserControl>
